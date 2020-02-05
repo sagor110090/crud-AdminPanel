@@ -27,3 +27,6 @@ Route::resource('admin/asik', 'Admin\\AsikController');
 Route::resource('admin/sagor', 'Admin\\SagorController');
 Route::resource('admin/employee', 'Admin\\EmployeeController');
 Route::resource('admin/test', 'Admin\\testController');
+Route::resource('admin/posts', 'Admin\\PostsController');
+Route::resource('admin/posts', 'Admin\\PostsController');
+Route::resource('admin/posts', 'Admin\\PostsController');
