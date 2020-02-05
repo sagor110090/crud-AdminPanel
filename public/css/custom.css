@@ -1,0 +1,16 @@
+.rg{
+    margin-left: 20%;
+}
+.menuBar{
+    background: #ffffff;
+    border-radius: 6px;
+    color: black;
+    font-weight: 700;
+    margin-right: 5px;
+}
+input.form-control{
+    border-radius: unset !important;
+}
+.card-header.card-header-primary {
+    background: darkcyan;
+}
